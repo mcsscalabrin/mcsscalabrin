@@ -1,18 +1,76 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Matheus Scalabrin
-==========================================================================================================================================
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:22c55e&height=180&section=header&text=Matheus%20Scalabrin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%7C%20Dynamics%20365%20%7C%20C%23%20%7C%20Data&descAlignY=58&descSize=16" alt="Matheus Scalabrin profile header" />
+</p>
 
-*   🌍  I'm based in São Paulo
-*   ✉️  You can contact me at [mcsscalabrin@gmail.com](mailto:mcsscalabrin@gmail.com)
-*   🧠  I'm currently learning Dynamics 365 and C#
+<p align="center">
+  <a href="mailto:mcsscalabrin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mcsscalabrin%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-scalabrin">
+    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Scalabrin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mcsscalabrin">
+    <img src="https://img.shields.io/badge/GitHub-mcsscalabrin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<h2 align="center">Hi there, I'm Matheus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="waving hand" /></h2>
+
+<p align="center">
+  Developer based in Sao Paulo, Brazil, currently focused on Dynamics 365, C# and building practical solutions with data, automation and web technologies.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mcsscalabrin&style=flat-square&color=0891b2" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Currently%20learning-Dynamics%20365%20%2B%20C%23-22c55e?style=flat-square" alt="Currently learning Dynamics 365 and C#" />
+  <img src="https://img.shields.io/badge/Based%20in-Sao%20Paulo-0891b2?style=flat-square" alt="Based in Sao Paulo" />
+</p>
+
+---
+
+### About me
+
+- I enjoy connecting software, data and business processes into useful products.
+- I am currently deepening my skills in **Dynamics 365** and **C#**.
+- I have experience across backend, scripting, databases, web fundamentals and tooling.
+- Reach me at **[mcsscalabrin@gmail.com](mailto:mcsscalabrin@gmail.com)**.
+
+### Tech stack
+
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="rlang" title="rlang" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
-                  </p>
-                  
+  <img src="https://skillicons.dev/icons?i=git,python,r,js,java,kotlin,cs,vscode,html,css,nodejs,mysql,arduino,linux,ubuntu,docker,aws&perline=9" alt="Git, Python, R, JavaScript, Java, Kotlin, C#, VS Code, HTML, CSS, Node.js, MySQL, Arduino, Linux, Ubuntu, Docker and AWS" />
+</p>
 
-### Socials
-                
-<p align="left"> <a href="https://www.github.com/mcsscalabrin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/matheus-scalabrin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Focus areas
 
-### Badges
+<p align="left">
+  <img src="https://img.shields.io/badge/Dynamics%20365-0f6cbd?style=for-the-badge&logo=microsoftdynamics365&logoColor=white" alt="Dynamics 365" />
+  <img src="https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Data-0891b2?style=for-the-badge&logo=databricks&logoColor=white" alt="Data" />
+  <img src="https://img.shields.io/badge/Automation-22c55e?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
+</p>
 
-<a href="https://github.com/mcsscalabrin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcsscalabrin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### GitHub snapshot
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mcsscalabrin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Matheus Scalabrin GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcsscalabrin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mcsscalabrin&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mcsscalabrin&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning, always building.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0891b2&height=110&section=footer" alt="Profile footer" />
+</p>
