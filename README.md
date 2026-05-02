@@ -41,7 +41,7 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento back-end, ar
 ### Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,cs,java,spring,mysql,git,github,aws,docker,html,css,nodejs,python,vscode,linux&perline=8" alt="JavaScript, C#, Java, Spring, MySQL, Git, GitHub, AWS, Docker, HTML, CSS, Node.js, Python, VS Code and Linux" />
+  <img src="https://skillicons.dev/icons?i=js,cs,java,spring,mysql,git,github,aws,azure,docker,html,css,nodejs,python,vscode,linux&perline=8" alt="JavaScript, C#, Java, Spring, MySQL, Git, GitHub, AWS, Azure, Docker, HTML, CSS, Node.js, Python, VS Code and Linux" />
 </p>
 
 ### Focus areas
