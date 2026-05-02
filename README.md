@@ -32,9 +32,9 @@
 
 Sou estudante de **Sistemas de Informação** e estagiário em tecnologia, com experiência em desenvolvimento web, automações, integrações, APIs, banco de dados e arquitetura de software.
 
-Tenho conhecimentos em **JavaScript**, **C#**, **Java**, **SQL**, **Spring Boot**, **MySQL**, **Power Platform**, **Dynamics 365**, **Git**, **GitHub**, **AWS**, **Docker**, **Swagger**, **Clean Code** e **SOLID**.
+Tenho conhecimentos em **JavaScript**, **C#**, **Java**, **SQL**, **Spring Boot**, **MySQL**, **Power Platform**, **Dynamics 365**, **Git**, **GitHub**, **AWS**, **Docker**, **Swagger**, **Clean Code**, **SOLID** e **metodologias Agile**.
 
-Atuo com desenvolvimento de features, criação de plugins em C#, ajustes em scripts de autenticação e observabilidade, além de participar de discussões técnicas e decisões de arquitetura. Também desenvolvo projetos acadêmicos e pessoais envolvendo APIs REST, sistemas kanban, bancos relacionais, cloud computing e documentação técnica.
+Atuo com desenvolvimento de features, criação de plugins em C#, ajustes em scripts de autenticação e observabilidade, além de participar de discussões técnicas, decisões de arquitetura e rotinas ágeis. Também desenvolvo projetos acadêmicos e pessoais envolvendo APIs REST, sistemas kanban, bancos relacionais, cloud computing e documentação técnica.
 
 Atualmente estou aprofundando meus conhecimentos em desenvolvimento back-end, arquitetura de software, cloud computing, boas práticas de código e construção de sistemas escaláveis. Busco evoluir como desenvolvedor, unindo visão técnica, curiosidade e prática constante para resolver problemas reais com tecnologia.
 
@@ -51,6 +51,7 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento back-end, ar
   <img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Platform" />
   <img src="https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/APIs%20REST-0891b2?style=for-the-badge&logo=swagger&logoColor=white" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/Agile%20Methodologies-0052cc?style=for-the-badge&logo=jira&logoColor=white" alt="Agile Methodologies" />
   <img src="https://img.shields.io/badge/Cloud%20Computing-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Computing" />
   <img src="https://img.shields.io/badge/Clean%20Code%20%26%20SOLID-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Clean Code and SOLID" />
 </p>
