@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:22c55e&height=180&section=header&text=Matheus%20Scalabrin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%7C%20Dynamics%20365%20%7C%20C%23%20%7C%20Data&descAlignY=58&descSize=16" alt="Matheus Scalabrin profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:22c55e&height=180&section=header&text=Matheus%20Scalabrin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Information%20Systems%20%7C%20Back-end%20%7C%20Dynamics%20365%20%7C%20Cloud&descAlignY=58&descSize=16" alt="Matheus Scalabrin profile header" />
 </p>
 
 <p align="center">
@@ -14,40 +14,45 @@
   </a>
 </p>
 
-<h2 align="center">Hi there, I'm Matheus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="waving hand" /></h2>
+<h2 align="center">Olá, eu sou o Matheus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="waving hand" /></h2>
 
 <p align="center">
-  Developer based in Sao Paulo, Brazil, currently focused on Dynamics 365, C# and building practical solutions with data, automation and web technologies.
+  Estudante de Sistemas de Informação e estagiário em tecnologia, com foco em back-end, automações, integrações, APIs, banco de dados e arquitetura de software.
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mcsscalabrin&style=flat-square&color=0891b2" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Currently%20learning-Dynamics%20365%20%2B%20C%23-22c55e?style=flat-square" alt="Currently learning Dynamics 365 and C#" />
+  <img src="https://img.shields.io/badge/Currently%20learning-Back--end%20%2B%20Cloud%20%2B%20Architecture-22c55e?style=flat-square" alt="Currently learning back-end, cloud and architecture" />
   <img src="https://img.shields.io/badge/Based%20in-Sao%20Paulo-0891b2?style=flat-square" alt="Based in Sao Paulo" />
 </p>
 
 ---
 
-### About me
+### Sobre mim
 
-- I enjoy connecting software, data and business processes into useful products.
-- I am currently deepening my skills in **Dynamics 365** and **C#**.
-- I have experience across backend, scripting, databases, web fundamentals and tooling.
-- Reach me at **[mcsscalabrin@gmail.com](mailto:mcsscalabrin@gmail.com)**.
+Sou estudante de **Sistemas de Informação** e estagiário em tecnologia, com experiência em desenvolvimento web, automações, integrações, APIs, banco de dados e arquitetura de software.
+
+Tenho conhecimentos em **JavaScript**, **C#**, **Java**, **SQL**, **Spring Boot**, **MySQL**, **Power Platform**, **Dynamics 365**, **Git**, **GitHub**, **AWS**, **Docker**, **Swagger**, **Clean Code** e **SOLID**.
+
+Atuo com desenvolvimento de features, criação de plugins em C#, ajustes em scripts de autenticação e observabilidade, além de participar de discussões técnicas e decisões de arquitetura. Também desenvolvo projetos acadêmicos e pessoais envolvendo APIs REST, sistemas kanban, bancos relacionais, cloud computing e documentação técnica.
+
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento back-end, arquitetura de software, cloud computing, boas práticas de código e construção de sistemas escaláveis. Busco evoluir como desenvolvedor, unindo visão técnica, curiosidade e prática constante para resolver problemas reais com tecnologia.
 
 ### Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,python,r,js,java,kotlin,cs,vscode,html,css,nodejs,mysql,arduino,linux,ubuntu,docker,aws&perline=9" alt="Git, Python, R, JavaScript, Java, Kotlin, C#, VS Code, HTML, CSS, Node.js, MySQL, Arduino, Linux, Ubuntu, Docker and AWS" />
+  <img src="https://skillicons.dev/icons?i=js,cs,java,spring,mysql,git,github,aws,docker,html,css,nodejs,python,vscode,linux&perline=8" alt="JavaScript, C#, Java, Spring, MySQL, Git, GitHub, AWS, Docker, HTML, CSS, Node.js, Python, VS Code and Linux" />
 </p>
 
 ### Focus areas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Dynamics%20365-0f6cbd?style=for-the-badge&logo=microsoftdynamics365&logoColor=white" alt="Dynamics 365" />
+  <img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Platform" />
   <img src="https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Data-0891b2?style=for-the-badge&logo=databricks&logoColor=white" alt="Data" />
-  <img src="https://img.shields.io/badge/Automation-22c55e?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
+  <img src="https://img.shields.io/badge/APIs%20REST-0891b2?style=for-the-badge&logo=swagger&logoColor=white" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Computing" />
+  <img src="https://img.shields.io/badge/Clean%20Code%20%26%20SOLID-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Clean Code and SOLID" />
 </p>
 
 ### GitHub snapshot
@@ -68,7 +73,7 @@
 ---
 
 <p align="center">
-  <i>Always learning, always building.</i>
+  <i>Sempre aprendendo, sempre construindo.</i>
 </p>
 
 <p align="center">
